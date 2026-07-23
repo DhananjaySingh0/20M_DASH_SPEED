@@ -1,0 +1,46 @@
+{
+  "exercise": "20m Sprint",
+  "duration_sec": 14.76,
+  "avg_speed_kph": 9.1,
+  "peak_speed_kph": 24.4,
+  "form_speed_kph": 11.7,
+  "form_score": 7,
+  "sprint_blocks": 1,
+  "issues": [
+    "Speed consistency low (37%) — work on maintaining max velocity across full 20 m"
+  ],
+  "strengths": [
+    "Strong peak velocity (24.4 km/h)",
+    "Full sprint detected (14.76s over 20 m)"
+  ],
+  "metrics": [
+    {
+      "label": "Duration",
+      "value": "14.76s"
+    },
+    {
+      "label": "Avg Speed",
+      "value": "9.1 km/h"
+    },
+    {
+      "label": "Peak Speed",
+      "value": "24.4 km/h"
+    },
+    {
+      "label": "Max-Vel Phase",
+      "value": "11.7 km/h"
+    },
+    {
+      "label": "Form Score",
+      "value": "7/10"
+    }
+  ],
+  "session_id": "23b6111d",
+  "input_file": "20260723_101814_23b6111d_Running1.mp4",
+  "output_file": "20260723_101814_23b6111d_annotated.mp4",
+  "output_url": "/outputs/20260723_101814_23b6111d_annotated.mp4",
+  "media_type": "video",
+  "report_url": "/outputs/20260723_101814_23b6111d_report.html",
+  "report_file": "20260723_101814_23b6111d_report.html",
+  "generated_at": "2026-07-23T10:19:23.717884"
+}
