@@ -1,6 +1,6 @@
 # 20M DASH SPEED
 ![image alt](https://github.com/DhananjaySingh0/20M_DASH_SPEED/blob/f9568bbc1bee4cf9ce5c4f65df1c0fc2b59b351c/Screenshot1.png)
-![image alt](https://github.com/DhananjaySingh0/20M_DASH_SPEED/blob/21dfaea2e0c54e172e8937c7457d1011deda6750/Screenshot2.png)
+![image alt](https://github.com/DhananjaySingh0/20M_DASH_SPEED/blob/9df70033b2241c48628c98bf318a4cb815e99cca/Screenshot2.png)
 AI-powered sprint analysis tool that processes a 20-metre dash video, tracks the
 runner with YOLOv8 + ByteTrack, and returns speed/form metrics along with an
 annotated playback video and an HTML/JSON report.
